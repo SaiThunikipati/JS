@@ -1,0 +1,4 @@
+console.log("hello world")
+//output:hello world
+console.log("Welcome back to js")
+//output:Welcome back to js
